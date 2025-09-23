@@ -2,9 +2,10 @@
 
 			<info>
 		<version>6.00</version>
-	<versionmin>5.95</versionmin>
+	<versionmin>1.01</versionmin>
 	<url>https://m.taoguba.com.cn/downloadApp?channelType=android</url>
-	<description>【优化】实盘报名提示</description>
+	<description>【优化】实盘报名提示
+	还喝酒</description>
 <condition>
     <all>1</all>
     <pushtime>2022-11-10</pushtime>
