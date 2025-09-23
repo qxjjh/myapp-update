@@ -3,18 +3,17 @@
 			<info>
 		<version>6.00</version>
 	<versionmin>1.01</versionmin>
-	<url>https://m.taoguba.com.cn/downloadApp?channelType=android</url>
-	<description>【优化】实盘报名提示
-	还喝酒</description>
+	<url>https://qxjjh.github.io/myapp-update/薪资_1.2.apk</url>
+	<description>【优化】实盘报名提示新增工作执掌</description>
 <condition>
     <all>1</all>
-    <pushtime>2022-11-10</pushtime>
-    <lastupdatetime>2022-11-10</lastupdatetime>
+    <pushtime>2025-9-23</pushtime>
+    <lastupdatetime>2025-9-25</lastupdatetime>
     <conditions>
       <userid>10,1</userid>
       <brand></brand>
       <system></system>
-      <md5Value>39387fdb83451d10b3bbbe3c63b24ff8</md5Value>
+      <md5Value>c4511cba0fe5d9b1e205594988456f33</md5Value>
     </conditions>
   </condition>
 </info>
