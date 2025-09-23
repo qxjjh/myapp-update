@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+			<info>
+		<version>6.00</version>
+	<versionmin>5.95</versionmin>
+	<url>https://m.taoguba.com.cn/downloadApp?channelType=android</url>
+	<description>【优化】实盘报名提示</description>
+<condition>
+    <all>1</all>
+    <pushtime>2022-11-10</pushtime>
+    <lastupdatetime>2022-11-10</lastupdatetime>
+    <conditions>
+      <userid>10,1</userid>
+      <brand></brand>
+      <system></system>
+      <md5Value>39387fdb83451d10b3bbbe3c63b24ff8</md5Value>
+    </conditions>
+  </condition>
+</info>
