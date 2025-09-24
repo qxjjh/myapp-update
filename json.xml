@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 			<info>
-		<version>1.201</version>
+		<version>1.203</version>
 	<versionmin>1.01</versionmin>
-	<url>https://qxjjh.github.io/myapp-update/薪资_1.201.apk</url>
+	<url>https://qxjjh.github.io/myapp-update/薪资_1.203.apk</url>
 	<description>【优化】实盘报名提示新增工作执掌</description>
 <condition>
     <all>1</all>
@@ -13,7 +13,7 @@
       <userid>10,1</userid>
       <brand></brand>
       <system></system>
-      <md5Value>c4511cba0fe5d9b1e205594988456f33</md5Value>
+      <md5Value>6dfb7a1129f7e21a7bfa8de28de85357</md5Value>
     </conditions>
   </condition>
 </info>
