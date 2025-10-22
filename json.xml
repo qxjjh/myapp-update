@@ -4,7 +4,10 @@
 		<version>1.203</version>
 	<versionmin>1.01</versionmin>
 	<url>https://qxjjh.github.io/myapp-update/薪资_1.203.apk</url>
-	<description>【优化】实盘报名提示新增工作执掌</description>
+	<description>【优化】增加自定义其他加项
+	【优化】社保缴费基数新增园区
+	【优化】个人所得税计算方法
+	【优化】其他已知BUG</description>
 <condition>
     <all>1</all>
     <pushtime>2025-9-23</pushtime>
